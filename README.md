@@ -1,5 +1,7 @@
 # UiTemplates
-
+HOW TO LAUNCH?
+-> Go to the SceneDelagate file
+-> Select the controller you are interested in
 This project contains UI variations using UIKit.
 The project was created without using Storyboards.
 
